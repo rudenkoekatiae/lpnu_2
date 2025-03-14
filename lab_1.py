@@ -44,30 +44,35 @@ else:
     print(f" The position of {k}{suffix} largest element in array: {index}\n")
 #level 3
 
-def longest_peak(arr_peak):
+def longest_peaks(arr_peak):
     if len(arr_peak) < 3:
-        return 0
+        return []
     
-    max_length = 0
     n = len(arr_peak)
-    
+    all_peaks = [] 
     for i in range(1, n - 1):
         if arr_peak[i - 1] < arr_peak[i] > arr_peak[i + 1]:
             left = i - 1
             right = i + 1
             
-            while left > 0 and arr_peak[left - 1] < arr_peak[left]:
+            while left > 0 and arr_peak[left - 1] < arr_peak[left]:  
                 left -= 1
             
-            while right < n - 1 and arr_peak[right + 1] < arr_peak[right]: 
+            while right < n - 1 and arr_peak[right + 1] < arr_peak[right]:  
                 right += 1
             
-            max_length = max(max_length, right - left + 1)
+            peak_subsequence = arr_peak[left:right + 1]
+            peak_length = right - left + 1 
+            
+            all_peaks.append((peak_length, peak_subsequence))
     
-    return max_length
-arr_peak = [1, 3, 5, 4, 2, 8, 3, 7]
-arr_peak_1 = [1, 3, 5, 4, 2, 3, 4, 5, 7, 6, 2, 1, 3, 2]
-arr_peak_2 = [1, 2]
-the_longest_peak = longest_peak(arr_peak)
-the_longest_peak = longest_peak(arr_peak_1)
-print(f"LEVEL 3 RESULT: \n THE LONGEST PEAK: {the_longest_peak}") 
+    return all_peaks
+
+# arr_peak = [1, 3, 5, 4, 2, 8, 3, 7]
+arr_peak = [-1, -10, -5, 7, 3, 5, 8, 9, 10, 0, 0, 1, 2, 3, 0]
+all_peaks = longest_peaks(arr_peak)
+
+print("LEVEL 3 RESULT:")
+print("ALL PEAKS:")
+for length, peak in all_peaks:
+    print(f"Length: {length}, Peak: {peak}")
