@@ -1,61 +1,77 @@
-def can_place_cows(stalls, cows, min_dist, return_positions=False):
+import random
+from faker import Faker
+
+faker = Faker()
+iteration = 0
+def can_place_cows(stalls, cows, min_dist):
     count = 1
     last_position = stalls[0]
-    positions = [last_position]  
-    for i in range(1, len(stalls)):
-        if stalls[i] - last_position >= min_dist:
+    global iteration
+    for position in stalls[1:]:
+        if position - last_position >= min_dist:
             count += 1
-            last_position = stalls[i]
-            positions.append(last_position)
+            last_position = position
             if count == cows:
-                return (True, positions) if return_positions else True
-    return (False, []) if return_positions else False
+                return True
+    iteration +=1
+    return False
 
-
-def largest_min_distance(N, C, free_sections):
-    free_sections.sort()
-    
-    low, high = free_sections[0], free_sections[-1] - free_sections[0]
-    best = 0
-    
+def largest_min_distance(N, C, stalls):
+    stalls.sort()
+    low, high = 2, stalls[-1] - stalls[0]
+    best = 2
+    global iteration
     while low <= high:
         mid = (low + high) // 2
-        if can_place_cows(free_sections, C, mid):
+        if can_place_cows(stalls, C, mid):
             best = mid
             low = mid + 1
         else:
             high = mid - 1
-    
-    return best
-
-
-def get_placements(stalls, cows, min_dist):
-    placements = []
-    
-    def backtrack(index, selected):
-        if len(selected) == cows:
-            placements.append(selected[:])
-            return
         
-        for i in range(index, len(stalls)):
-            if not selected or stalls[i] - selected[-1] >= min_dist:
-                selected.append(stalls[i])
-                backtrack(i + 1, selected)
-                selected.pop()
+        iteration += 1
+    
+    return best, iteration
 
-    backtrack(0, [])
-    return placements
+def place_cows(stalls, C, min_dist):
+    global iteration
+    placed_cows = [stalls[0]]
+    last_position = stalls[0]
+    
+    for position in stalls[1:]:
+        if position - last_position >= min_dist:
+            placed_cows.append(position)
+            last_position = position
+            if len(placed_cows) == C:
+                break
+    iteration += 1
+    return placed_cows
 
+def generate_cow_names(C):
+    return [faker.first_name_female() for _ in range(C)]
 
-N = 5
-C = 3
-free_sections = [1, 2, 8, 4, 9]
+N = 10 ** 5
+C = random.randint(1, 10 ** 3)
+free_sections = sorted(random.sample(range(1, N+1), N))
 
-best_distance = largest_min_distance(N, C, free_sections)
+the_best_distance, iteration = largest_min_distance(N, C, free_sections)
+placed_positions = place_cows(free_sections, C, the_best_distance)
 
-placements = get_placements(sorted(free_sections), C, best_distance)
+print(f"Largest minimal distance: {the_best_distance}")
+print(f"Number of iterations: {iteration}")
 
-print(f"Largest minimal distance: {best_distance}")
-print("Possible placements of cows:")
-for placement in placements:
-    print(placement)
+cow_names = generate_cow_names(C)
+placed_cows = list(zip(placed_positions, cow_names))
+
+while True:
+    try:
+        num_cows = int(input(f"Information about how many cows do you want to know? "))
+        if 1 <= num_cows <= C:
+            break
+        else:
+            print(f"Please enter a number from 1 to {C}.")
+    except ValueError:
+        print("Please enter an integer.")
+
+for i, (position, name) in enumerate(placed_cows[:num_cows], 1):
+    print(f"{i} cow: {name} in stall {position}")
