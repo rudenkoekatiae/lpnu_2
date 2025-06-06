@@ -1,0 +1,1010 @@
+ChatID: 1
+2025-06-01 12:00:00 | Z3R0 | 192.168.0.3 | Fuck me, dude.
+2025-06-01 12:05:00 | ClutchMaster | 192.168.1.1 | Damn, missed again.
+2025-06-02 00:22:00 | BlindBandit | 192.168.1.2 | What the fuck are you doing?!
+2025-06-02 00:33:00 | ClutchMaster | 192.168.1.1 | Damn it, guys!
+2025-06-02 00:43:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-02 00:58:00 | K1llMePlz | 192.168.0.2 | I'm so fucking done.
+2025-06-02 01:17:00 | BlindBandit | 192.168.1.2 | I'm so fucking done.
+2025-06-02 01:31:00 | K1llMePlz | 192.168.0.2 | Shit team.
+2025-06-02 01:46:00 | AimGod | 192.168.0.7 | I'm so fucking done.
+2025-06-02 01:51:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-02 02:03:00 | BlindBandit | 192.168.1.2 | Shit, that was close.
+2025-06-02 02:12:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-02 02:25:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-02 02:38:00 | ClutchMaster | 192.168.1.1 | Damn it, guys!
+2025-06-02 02:51:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-02 02:57:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 03:11:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+2025-06-02 03:31:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-02 15:50:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-02 16:05:00 | AimGod | 192.168.0.7 | Damn it, guys!
+2025-06-02 16:11:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-02 16:25:00 | Z3R0 | 192.168.0.3 | Damn, missed again.
+2025-06-02 16:33:00 | AimGod | 192.168.0.7 | Holy shit that was intense.
+2025-06-02 16:48:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-02 17:03:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-02 17:08:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-02 17:24:00 | Z3R0 | 192.168.0.3 | Damn, missed again.
+2025-06-02 17:33:00 | Z3R0 | 192.168.0.3 | Anyone has drop?
+2025-06-02 17:50:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-02 18:09:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-02 18:15:00 | K1llMePlz | 192.168.0.2 | This team is actually good.
+2025-06-02 18:24:00 | BlindBandit | 192.168.1.2 | Save weapons.
+2025-06-02 18:32:00 | AimGod | 192.168.0.7 | Let's go A.
+2025-06-02 18:48:00 | AimGod | 192.168.0.7 | Anyone has drop?
+2025-06-02 19:08:00 | K1llMePlz | 192.168.0.2 | Nice clutch!
+2025-06-02 19:17:00 | ClutchMaster | 192.168.1.1 | I need backup.
+2025-06-02 19:25:00 | K1llMePlz | 192.168.0.2 | Let's go A.
+2025-06-02 19:43:00 | Z3R0 | 192.168.0.3 | Well played.
+2025-06-02 19:50:00 | AimGod | 192.168.0.7 | GG guys!
+2025-06-02 20:09:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-02 20:14:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-02 20:34:00 | Z3R0 | 192.168.0.3 | Rotate fast.
+2025-06-02 20:46:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-02 21:01:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-03 09:12:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-03 09:17:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-03 09:23:00 | AimGod | 192.168.0.7 | I'm lagging.
+2025-06-03 09:37:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-03 09:52:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-03 10:11:00 | K1llMePlz | 192.168.0.2 | Shit team.
+2025-06-03 10:21:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-03 10:40:00 | AimGod | 192.168.0.7 | Anyone has drop?
+2025-06-03 10:51:00 | Z3R0 | 192.168.0.3 | I'm lagging.
+2025-06-03 11:11:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-03 11:28:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-03 11:45:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-03 12:02:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-03 12:19:00 | K1llMePlz | 192.168.0.2 | I'm so fucking done.
+2025-06-03 12:36:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-03 12:56:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-03 13:16:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-03 13:32:00 | BlindBandit | 192.168.1.2 | I need backup.
+2025-06-03 13:48:00 | K1llMePlz | 192.168.0.2 | Damn, missed again.
+2025-06-03 13:53:00 | BlindBandit | 192.168.1.2 | I need backup.
+2025-06-03 14:11:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-03 14:17:00 | AimGod | 192.168.0.7 | This team is actually good.
+2025-06-03 14:35:00 | K1llMePlz | 192.168.0.2 | Shit, that was close.
+2025-06-03 14:46:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-03 14:58:00 | AimGod | 192.168.0.7 | Save weapons.
+2025-06-03 15:08:00 | BlindBandit | 192.168.1.2 | Well played.
+2025-06-03 15:28:00 | BlindBandit | 192.168.1.2 | Rotate fast.
+2025-06-03 15:46:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-03 15:55:00 | BlindBandit | 192.168.1.2 | Anyone has drop?
+2025-06-03 16:14:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-04 04:21:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-04 04:34:00 | K1llMePlz | 192.168.0.2 | Shit, that was close.
+2025-06-04 04:40:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-04 04:50:00 | Z3R0 | 192.168.0.3 | Plant the bomb!
+2025-06-04 05:03:00 | K1llMePlz | 192.168.0.2 | Damn, missed again.
+2025-06-04 05:21:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-04 05:26:00 | BlindBandit | 192.168.1.2 | Well played.
+2025-06-04 05:36:00 | AimGod | 192.168.0.7 | Who has bomb?
+2025-06-04 05:46:00 | BlindBandit | 192.168.1.2 | Let's go A.
+2025-06-04 05:55:00 | K1llMePlz | 192.168.0.2 | Shit team.
+2025-06-04 06:14:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-04 06:30:00 | AimGod | 192.168.0.7 | Use utility.
+2025-06-04 06:38:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-04 06:52:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+2025-06-04 06:58:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-04 07:03:00 | BlindBandit | 192.168.1.2 | I need backup.
+2025-06-04 07:22:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-04 07:33:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-04 19:44:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-04 19:49:00 | AimGod | 192.168.0.7 | I'm lagging.
+2025-06-04 20:08:00 | K1llMePlz | 192.168.0.2 | Damn, missed again.
+2025-06-04 20:26:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-04 20:31:00 | AimGod | 192.168.0.7 | Save weapons.
+2025-06-04 20:49:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-04 20:58:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-04 21:07:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+ChatID: 2
+2025-06-01 12:00:00 | GGnore | 192.168.0.9 | I'm so fucking done.
+2025-06-01 12:16:00 | ClutchMaster | 192.168.1.1 | Shit team.
+2025-06-01 12:32:00 | ToxicTommy | 192.168.0.5 | This game is bullshit.
+2025-06-01 12:49:00 | ClutchMaster | 192.168.1.1 | Shit team.
+2025-06-01 13:02:00 | GGnore | 192.168.0.9 | Holy shit that was intense.
+2025-06-01 13:16:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-01 13:35:00 | ToxicTommy | 192.168.0.5 | Shit team.
+2025-06-01 13:40:00 | NovaCat | 192.168.0.4 | Damn, missed again.
+2025-06-01 13:51:00 | ToxicTommy | 192.168.0.5 | Fucking campers.
+2025-06-01 14:01:00 | ToxicTommy | 192.168.0.5 | Save weapons.
+2025-06-01 14:20:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+2025-06-01 14:26:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-01 14:42:00 | GGnore | 192.168.0.9 | Damn, missed again.
+2025-06-01 14:47:00 | GGnore | 192.168.0.9 | Who has bomb?
+2025-06-01 14:58:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-01 15:12:00 | ClutchMaster | 192.168.1.1 | This team is actually good.
+2025-06-01 15:17:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-01 15:27:00 | NovaCat | 192.168.0.4 | Shit team.
+2025-06-01 15:33:00 | ToxicTommy | 192.168.0.5 | Plant the bomb!
+2025-06-01 15:38:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-01 15:48:00 | Softie | 192.168.0.6 | I'm so fucking done.
+2025-06-01 15:58:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-01 16:14:00 | NovaCat | 192.168.0.4 | This game is bullshit.
+2025-06-01 16:22:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-01 16:40:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-01 16:52:00 | GGnore | 192.168.0.9 | This team is actually good.
+2025-06-01 17:11:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-01 17:18:00 | Softie | 192.168.0.6 | Shit, that was close.
+2025-06-01 17:24:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-01 17:34:00 | Softie | 192.168.0.6 | I'm so fucking done.
+2025-06-01 17:42:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+2025-06-01 17:55:00 | NovaCat | 192.168.0.4 | Well played.
+2025-06-01 18:09:00 | GGnore | 192.168.0.9 | This team is actually good.
+2025-06-01 18:26:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-01 18:37:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-01 18:54:00 | NovaCat | 192.168.0.4 | GG guys!
+2025-06-01 19:05:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-01 19:18:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-01 19:26:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-01 19:31:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+2025-06-01 19:36:00 | GGnore | 192.168.0.9 | This team is actually good.
+2025-06-01 19:52:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-01 20:07:00 | ToxicTommy | 192.168.0.5 | Don't peek mid.
+2025-06-01 20:13:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-01 20:18:00 | NovaCat | 192.168.0.4 | I need backup.
+2025-06-01 20:35:00 | ToxicTommy | 192.168.0.5 | Sorry, my bad.
+2025-06-01 20:51:00 | GGnore | 192.168.0.9 | Save weapons.
+2025-06-01 20:56:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-01 21:03:00 | ToxicTommy | 192.168.0.5 | Use utility.
+2025-06-02 09:08:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-02 09:21:00 | ToxicTommy | 192.168.0.5 | Who has bomb?
+2025-06-02 09:33:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-02 09:40:00 | Softie | 192.168.0.6 | Use utility.
+2025-06-02 09:50:00 | NovaCat | 192.168.0.4 | Nice clutch!
+2025-06-02 10:01:00 | NovaCat | 192.168.0.4 | Sorry, my bad.
+2025-06-02 10:21:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-02 10:32:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-02 10:49:00 | NovaCat | 192.168.0.4 | Nice clutch!
+2025-06-02 11:01:00 | NovaCat | 192.168.0.4 | Who has bomb?
+2025-06-02 11:16:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-02 11:21:00 | NovaCat | 192.168.0.4 | Let's go A.
+2025-06-02 11:27:00 | ToxicTommy | 192.168.0.5 | Sorry, my bad.
+2025-06-02 11:45:00 | NovaCat | 192.168.0.4 | Who has bomb?
+2025-06-02 23:54:00 | GGnore | 192.168.0.9 | Let's go A.
+2025-06-02 23:59:00 | Softie | 192.168.0.6 | I'm lagging.
+2025-06-03 00:13:00 | ToxicTommy | 192.168.0.5 | Sorry, my bad.
+2025-06-03 00:30:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-03 00:38:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-03 00:56:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-03 01:05:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-03 01:23:00 | ToxicTommy | 192.168.0.5 | Anyone has drop?
+2025-06-03 01:35:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-03 01:42:00 | Softie | 192.168.0.6 | Plant the bomb!
+2025-06-03 13:49:00 | Softie | 192.168.0.6 | This team is actually good.
+2025-06-03 13:55:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-03 14:02:00 | Softie | 192.168.0.6 | Don't peek mid.
+2025-06-03 14:14:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-03 14:28:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-03 14:39:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-03 14:51:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-03 15:10:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-03 15:17:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-03 15:33:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-04 03:49:00 | Softie | 192.168.0.6 | Well played.
+2025-06-04 04:03:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-04 04:15:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-04 04:24:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-04 04:37:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-04 04:57:00 | ToxicTommy | 192.168.0.5 | Save weapons.
+2025-06-04 05:07:00 | NovaCat | 192.168.0.4 | Who has bomb?
+2025-06-04 05:20:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-04 05:39:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-04 05:54:00 | NovaCat | 192.168.0.4 | Rotate fast.
+2025-06-04 06:04:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-04 06:12:00 | NovaCat | 192.168.0.4 | Let's go A.
+2025-06-04 06:27:00 | Softie | 192.168.0.6 | I need backup.
+2025-06-04 06:43:00 | NovaCat | 192.168.0.4 | GG guys!
+2025-06-04 06:59:00 | ToxicTommy | 192.168.0.5 | Don't peek mid.
+2025-06-04 07:08:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-04 07:23:00 | GGnore | 192.168.0.9 | I need backup.
+ChatID: 3
+2025-06-01 12:00:00 | NoScopeNancy | 192.168.0.8 | What the fuck are you doing?!
+2025-06-01 12:17:00 | Z3R0 | 192.168.0.3 | What the fuck are you doing?!
+2025-06-01 12:22:00 | Z3R0 | 192.168.0.3 | Damn, missed again.
+2025-06-01 12:41:00 | AimGod | 192.168.0.7 | Damn it, guys!
+2025-06-01 12:51:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-01 13:00:00 | ClutchMaster | 192.168.1.1 | Shit team.
+2025-06-01 13:15:00 | Z3R0 | 192.168.0.3 | Shit team.
+2025-06-01 13:30:00 | NoScopeNancy | 192.168.0.8 | Holy shit that was intense.
+2025-06-01 13:38:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-01 13:53:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-01 14:02:00 | NoScopeNancy | 192.168.0.8 | Shit, that was close.
+2025-06-01 14:22:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-01 14:29:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-01 14:38:00 | K1llMePlz | 192.168.0.2 | Let's go A.
+2025-06-01 14:46:00 | NoScopeNancy | 192.168.0.8 | GG guys!
+2025-06-01 14:58:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-01 15:09:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-01 15:16:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-01 15:25:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+2025-06-01 15:41:00 | AimGod | 192.168.0.7 | Fucking campers.
+2025-06-01 15:58:00 | AimGod | 192.168.0.7 | Fucking campers.
+2025-06-01 16:05:00 | AimGod | 192.168.0.7 | I'm lagging.
+2025-06-01 16:22:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 04:34:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-02 04:42:00 | Z3R0 | 192.168.0.3 | Anyone has drop?
+2025-06-02 04:52:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 05:02:00 | NoScopeNancy | 192.168.0.8 | Plant the bomb!
+2025-06-02 05:19:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-02 05:36:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 05:47:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-02 06:07:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-02 06:22:00 | ClutchMaster | 192.168.1.1 | I need backup.
+2025-06-02 06:40:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-02 06:58:00 | K1llMePlz | 192.168.0.2 | Let's go A.
+2025-06-02 07:15:00 | Z3R0 | 192.168.0.3 | Use utility.
+2025-06-02 07:34:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-02 07:51:00 | AimGod | 192.168.0.7 | Who has bomb?
+2025-06-02 08:09:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 08:19:00 | NoScopeNancy | 192.168.0.8 | Plant the bomb!
+2025-06-02 08:36:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-02 08:43:00 | AimGod | 192.168.0.7 | Anyone has drop?
+2025-06-02 08:48:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 08:53:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-02 09:13:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-02 09:28:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 09:43:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-02 10:01:00 | NoScopeNancy | 192.168.0.8 | Plant the bomb!
+2025-06-02 10:13:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-02 10:28:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-02 10:46:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-02 10:56:00 | K1llMePlz | 192.168.0.2 | Sorry, my bad.
+2025-06-02 11:04:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+2025-06-02 11:20:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-02 11:32:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-02 11:37:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-02 11:50:00 | AimGod | 192.168.0.7 | GG guys!
+2025-06-02 12:06:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-02 12:19:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-02 12:24:00 | Z3R0 | 192.168.0.3 | Anyone has drop?
+2025-06-02 12:33:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-02 12:45:00 | ClutchMaster | 192.168.1.1 | Sorry, my bad.
+2025-06-02 13:04:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 13:11:00 | Z3R0 | 192.168.0.3 | I'm lagging.
+2025-06-02 13:28:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-02 13:38:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-02 13:53:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-02 14:01:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-02 14:10:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 14:19:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 14:32:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-02 14:52:00 | Z3R0 | 192.168.0.3 | Use utility.
+2025-06-02 15:06:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+2025-06-02 15:13:00 | K1llMePlz | 192.168.0.2 | What the fuck are you doing?!
+2025-06-02 15:23:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 15:28:00 | K1llMePlz | 192.168.0.2 | Damn, missed again.
+2025-06-02 15:42:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-02 15:51:00 | Z3R0 | 192.168.0.3 | Save weapons.
+2025-06-02 16:00:00 | Z3R0 | 192.168.0.3 | I'm lagging.
+2025-06-02 16:09:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 16:23:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-02 16:37:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 16:47:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-03 05:06:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-03 05:15:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-03 05:24:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-03 05:33:00 | Z3R0 | 192.168.0.3 | Nice clutch!
+2025-06-03 05:38:00 | ClutchMaster | 192.168.1.1 | Sorry, my bad.
+2025-06-03 05:49:00 | AimGod | 192.168.0.7 | I'm lagging.
+2025-06-03 06:07:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-03 06:21:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-03 06:40:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-03 06:48:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-03 07:00:00 | Z3R0 | 192.168.0.3 | Well played.
+2025-06-03 07:07:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-03 07:20:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-03 07:25:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-03 07:45:00 | K1llMePlz | 192.168.0.2 | Sorry, my bad.
+2025-06-03 07:58:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-03 08:14:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-03 08:25:00 | NoScopeNancy | 192.168.0.8 | Let's go A.
+ChatID: 4
+2025-06-01 12:00:00 | Softie | 192.168.0.6 | Holy shit that was intense.
+2025-06-01 12:15:00 | Softie | 192.168.0.6 | I'm so fucking done.
+2025-06-01 12:32:00 | GGnore | 192.168.0.9 | Damn it, guys!
+2025-06-01 12:52:00 | ToxicTommy | 192.168.0.5 | This game is bullshit.
+2025-06-01 13:06:00 | Softie | 192.168.0.6 | Fucking campers.
+2025-06-01 13:12:00 | ToxicTommy | 192.168.0.5 | I'm so fucking done.
+2025-06-02 01:18:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-02 01:36:00 | ToxicTommy | 192.168.0.5 | Holy shit that was intense.
+2025-06-02 01:55:00 | ToxicTommy | 192.168.0.5 | Damn, missed again.
+2025-06-02 02:02:00 | NovaCat | 192.168.0.4 | What the fuck are you doing?!
+2025-06-02 02:18:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 02:35:00 | Softie | 192.168.0.6 | Use utility.
+2025-06-02 02:40:00 | Softie | 192.168.0.6 | Use utility.
+2025-06-02 02:58:00 | GGnore | 192.168.0.9 | Damn, missed again.
+2025-06-02 03:05:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-02 03:11:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 03:22:00 | GGnore | 192.168.0.9 | Damn, missed again.
+2025-06-02 03:37:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-02 15:50:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-02 16:05:00 | NovaCat | 192.168.0.4 | Shit, that was close.
+2025-06-02 16:22:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-02 16:31:00 | ToxicTommy | 192.168.0.5 | Holy shit that was intense.
+2025-06-02 16:41:00 | K1llMePlz | 192.168.0.2 | Shit, that was close.
+2025-06-02 16:57:00 | ToxicTommy | 192.168.0.5 | Holy shit that was intense.
+2025-06-02 17:07:00 | NovaCat | 192.168.0.4 | Damn it, guys!
+2025-06-02 17:12:00 | Softie | 192.168.0.6 | I'm lagging.
+2025-06-02 17:31:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-02 17:48:00 | NovaCat | 192.168.0.4 | Nice clutch!
+2025-06-02 18:03:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-02 18:13:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-02 18:21:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-02 18:38:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-02 18:48:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-02 18:58:00 | ToxicTommy | 192.168.0.5 | I'm so fucking done.
+2025-06-02 19:12:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-02 19:31:00 | NovaCat | 192.168.0.4 | I'm lagging.
+2025-06-02 19:40:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-02 19:45:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-02 19:55:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-02 20:04:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-02 20:24:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-02 20:32:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 20:50:00 | ToxicTommy | 192.168.0.5 | Don't peek mid.
+2025-06-02 21:07:00 | NovaCat | 192.168.0.4 | I'm lagging.
+2025-06-02 21:16:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-02 21:36:00 | Softie | 192.168.0.6 | Don't peek mid.
+2025-06-02 21:49:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-02 21:55:00 | Softie | 192.168.0.6 | Let's go A.
+2025-06-02 22:05:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 22:14:00 | Softie | 192.168.0.6 | Who has bomb?
+2025-06-02 22:26:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-02 22:31:00 | ToxicTommy | 192.168.0.5 | Use utility.
+2025-06-02 22:45:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-02 23:05:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-02 23:24:00 | NovaCat | 192.168.0.4 | Use utility.
+2025-06-02 23:30:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-03 11:37:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-03 11:50:00 | Softie | 192.168.0.6 | I'm lagging.
+2025-06-03 12:04:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-03 12:17:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-03 12:34:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-03 12:51:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-03 13:10:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-03 13:22:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-04 01:32:00 | ToxicTommy | 192.168.0.5 | I'm so fucking done.
+2025-06-04 01:44:00 | NovaCat | 192.168.0.4 | Well played.
+2025-06-04 01:54:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-04 02:08:00 | K1llMePlz | 192.168.0.2 | I need backup.
+2025-06-04 02:15:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-04 02:22:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-04 02:31:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-04 02:51:00 | NovaCat | 192.168.0.4 | Rotate fast.
+2025-06-04 03:02:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-04 03:19:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-04 03:25:00 | K1llMePlz | 192.168.0.2 | I need backup.
+2025-06-04 03:34:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-04 03:54:00 | NovaCat | 192.168.0.4 | Plant the bomb!
+2025-06-04 03:59:00 | K1llMePlz | 192.168.0.2 | Well played.
+2025-06-04 04:07:00 | ToxicTommy | 192.168.0.5 | Damn it, guys!
+2025-06-04 16:27:00 | K1llMePlz | 192.168.0.2 | Let's go A.
+2025-06-04 16:36:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-04 16:44:00 | NovaCat | 192.168.0.4 | Plant the bomb!
+2025-06-04 16:55:00 | GGnore | 192.168.0.9 | Plant the bomb!
+2025-06-04 17:00:00 | NovaCat | 192.168.0.4 | I need backup.
+2025-06-04 17:16:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-05 05:22:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-05 05:28:00 | ToxicTommy | 192.168.0.5 | Fucking campers.
+2025-06-05 05:42:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-05 05:59:00 | Softie | 192.168.0.6 | I need backup.
+2025-06-05 06:16:00 | ToxicTommy | 192.168.0.5 | Holy shit that was intense.
+2025-06-05 06:27:00 | ToxicTommy | 192.168.0.5 | Damn, missed again.
+2025-06-05 06:33:00 | NovaCat | 192.168.0.4 | This team is actually good.
+2025-06-05 06:40:00 | NovaCat | 192.168.0.4 | Let's go A.
+2025-06-05 18:54:00 | ToxicTommy | 192.168.0.5 | Shit team.
+2025-06-05 19:12:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-05 19:31:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-05 19:43:00 | K1llMePlz | 192.168.0.2 | Nice clutch!
+2025-06-05 19:58:00 | NovaCat | 192.168.0.4 | GG guys!
+2025-06-05 20:10:00 | ToxicTommy | 192.168.0.5 | Shit, that was close.
+2025-06-05 20:21:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+ChatID: 5
+2025-06-01 12:00:00 | NovaCat | 192.168.0.4 | Damn, missed again.
+2025-06-01 12:16:00 | ClutchMaster | 192.168.1.1 | Shit team.
+2025-06-01 12:35:00 | NovaCat | 192.168.0.4 | I'm so fucking done.
+2025-06-01 12:48:00 | Softie | 192.168.0.6 | Damn it, guys!
+2025-06-01 12:54:00 | NovaCat | 192.168.0.4 | This game is bullshit.
+2025-06-01 13:06:00 | NovaCat | 192.168.0.4 | Well played.
+2025-06-01 13:19:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-01 13:37:00 | ToxicTommy | 192.168.0.5 | Save weapons.
+2025-06-01 13:49:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-01 14:04:00 | NovaCat | 192.168.0.4 | I need backup.
+2025-06-01 14:18:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-01 14:36:00 | ToxicTommy | 192.168.0.5 | I'm lagging.
+2025-06-01 14:41:00 | Softie | 192.168.0.6 | Fucking campers.
+2025-06-01 14:52:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-01 14:58:00 | NovaCat | 192.168.0.4 | I need backup.
+2025-06-01 15:14:00 | ClutchMaster | 192.168.1.1 | Holy shit that was intense.
+2025-06-01 15:22:00 | ClutchMaster | 192.168.1.1 | Shit team.
+2025-06-01 15:33:00 | K1llMePlz | 192.168.0.2 | Well played.
+2025-06-01 15:39:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-01 15:46:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-01 15:55:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-01 16:07:00 | Softie | 192.168.0.6 | I'm so fucking done.
+2025-06-01 16:17:00 | Softie | 192.168.0.6 | What the fuck are you doing?!
+2025-06-01 16:22:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-01 16:34:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-01 16:50:00 | Softie | 192.168.0.6 | Holy shit that was intense.
+2025-06-01 16:59:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-01 17:08:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-01 17:26:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-01 17:41:00 | Softie | 192.168.0.6 | Anyone has drop?
+2025-06-01 17:47:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-01 18:00:00 | ToxicTommy | 192.168.0.5 | Sorry, my bad.
+2025-06-01 18:11:00 | ClutchMaster | 192.168.1.1 | I need backup.
+2025-06-01 18:26:00 | Softie | 192.168.0.6 | This team is actually good.
+2025-06-01 18:46:00 | NovaCat | 192.168.0.4 | Use utility.
+2025-06-01 18:52:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-01 18:58:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-01 19:10:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-01 19:22:00 | ToxicTommy | 192.168.0.5 | Well played.
+2025-06-01 19:39:00 | ToxicTommy | 192.168.0.5 | Who has bomb?
+2025-06-01 19:46:00 | K1llMePlz | 192.168.0.2 | This team is actually good.
+2025-06-01 19:53:00 | ToxicTommy | 192.168.0.5 | Plant the bomb!
+2025-06-01 20:05:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-01 20:25:00 | NovaCat | 192.168.0.4 | Rotate fast.
+2025-06-01 20:40:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-02 08:54:00 | Softie | 192.168.0.6 | Damn it, guys!
+2025-06-02 09:10:00 | ToxicTommy | 192.168.0.5 | GG guys!
+2025-06-02 09:23:00 | ClutchMaster | 192.168.1.1 | I need backup.
+2025-06-02 09:33:00 | Softie | 192.168.0.6 | Shit team.
+2025-06-02 09:41:00 | Softie | 192.168.0.6 | Fucking campers.
+2025-06-02 09:49:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-02 10:07:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-02 10:13:00 | Softie | 192.168.0.6 | Plant the bomb!
+2025-06-02 10:19:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-02 10:29:00 | K1llMePlz | 192.168.0.2 | Nice clutch!
+2025-06-02 10:45:00 | ToxicTommy | 192.168.0.5 | Anyone has drop?
+2025-06-02 10:50:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-02 11:02:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-02 11:18:00 | ToxicTommy | 192.168.0.5 | Use utility.
+2025-06-02 11:30:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-02 11:40:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-02 11:58:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-02 12:11:00 | ToxicTommy | 192.168.0.5 | Well played.
+2025-06-02 12:18:00 | ToxicTommy | 192.168.0.5 | I'm lagging.
+2025-06-02 12:27:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-02 12:46:00 | NovaCat | 192.168.0.4 | Who has bomb?
+2025-06-03 01:02:00 | ClutchMaster | 192.168.1.1 | This team is actually good.
+2025-06-03 01:17:00 | ToxicTommy | 192.168.0.5 | GG guys!
+2025-06-03 01:36:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-03 01:55:00 | NovaCat | 192.168.0.4 | I need backup.
+2025-06-03 02:11:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-03 02:23:00 | ToxicTommy | 192.168.0.5 | Anyone has drop?
+2025-06-03 02:40:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-03 02:47:00 | Softie | 192.168.0.6 | Don't peek mid.
+2025-06-03 03:04:00 | Softie | 192.168.0.6 | Plant the bomb!
+2025-06-03 03:21:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-03 03:39:00 | K1llMePlz | 192.168.0.2 | Damn, missed again.
+2025-06-03 03:46:00 | NovaCat | 192.168.0.4 | Use utility.
+2025-06-03 03:56:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-03 04:14:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-03 04:27:00 | ToxicTommy | 192.168.0.5 | Plant the bomb!
+2025-06-03 04:40:00 | Softie | 192.168.0.6 | Rotate fast.
+2025-06-03 04:51:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-03 05:10:00 | ToxicTommy | 192.168.0.5 | Save weapons.
+2025-06-03 05:29:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+2025-06-03 05:37:00 | ToxicTommy | 192.168.0.5 | GG guys!
+2025-06-03 05:49:00 | Softie | 192.168.0.6 | I need backup.
+2025-06-03 05:56:00 | K1llMePlz | 192.168.0.2 | Well played.
+2025-06-03 06:09:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-03 06:16:00 | Softie | 192.168.0.6 | Don't peek mid.
+2025-06-03 06:27:00 | ToxicTommy | 192.168.0.5 | Who has bomb?
+2025-06-03 06:45:00 | NovaCat | 192.168.0.4 | I'm lagging.
+2025-06-03 07:01:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-03 07:14:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-03 07:27:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-03 07:36:00 | NovaCat | 192.168.0.4 | Plant the bomb!
+2025-06-03 07:52:00 | NovaCat | 192.168.0.4 | Let's go A.
+2025-06-03 08:10:00 | NovaCat | 192.168.0.4 | Rotate fast.
+2025-06-03 08:16:00 | ToxicTommy | 192.168.0.5 | Shit, that was close.
+2025-06-03 08:34:00 | Softie | 192.168.0.6 | Anyone has drop?
+ChatID: 6
+2025-06-01 12:00:00 | GGnore | 192.168.0.9 | Shit, that was close.
+2025-06-01 12:16:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-01 12:34:00 | GGnore | 192.168.0.9 | Damn, missed again.
+2025-06-01 12:54:00 | BlindBandit | 192.168.1.2 | Fuck me, dude.
+2025-06-01 13:12:00 | ClutchMaster | 192.168.1.1 | Damn, missed again.
+2025-06-01 13:20:00 | BlindBandit | 192.168.1.2 | Damn it, guys!
+2025-06-01 13:37:00 | ClutchMaster | 192.168.1.1 | Holy shit that was intense.
+2025-06-01 13:45:00 | GGnore | 192.168.0.9 | What the fuck are you doing?!
+2025-06-01 13:55:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-01 14:12:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-01 14:27:00 | NoScopeNancy | 192.168.0.8 | Fuck me, dude.
+2025-06-01 14:42:00 | GGnore | 192.168.0.9 | Who has bomb?
+2025-06-01 14:53:00 | Z3R0 | 192.168.0.3 | Shit, that was close.
+2025-06-01 15:10:00 | NoScopeNancy | 192.168.0.8 | Shit team.
+2025-06-01 15:17:00 | BlindBandit | 192.168.1.2 | Shit, that was close.
+2025-06-01 15:22:00 | Z3R0 | 192.168.0.3 | What the fuck are you doing?!
+2025-06-01 15:34:00 | GGnore | 192.168.0.9 | Let's go A.
+2025-06-01 15:53:00 | Z3R0 | 192.168.0.3 | I'm so fucking done.
+2025-06-01 16:13:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-01 16:24:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-01 16:36:00 | NoScopeNancy | 192.168.0.8 | What the fuck are you doing?!
+2025-06-01 16:41:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-01 16:51:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-01 17:01:00 | ClutchMaster | 192.168.1.1 | This team is actually good.
+2025-06-01 17:16:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+2025-06-01 17:24:00 | Z3R0 | 192.168.0.3 | Nice clutch!
+2025-06-01 17:41:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-01 18:00:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-01 18:14:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-01 18:29:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-01 18:49:00 | BlindBandit | 192.168.1.2 | Don't peek mid.
+2025-06-01 18:56:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-01 19:09:00 | Z3R0 | 192.168.0.3 | I'm lagging.
+2025-06-01 19:16:00 | GGnore | 192.168.0.9 | GG guys!
+2025-06-02 07:32:00 | BlindBandit | 192.168.1.2 | Nice clutch!
+2025-06-02 07:40:00 | Z3R0 | 192.168.0.3 | Anyone has drop?
+2025-06-02 07:57:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-02 08:08:00 | Z3R0 | 192.168.0.3 | Plant the bomb!
+2025-06-02 08:23:00 | NoScopeNancy | 192.168.0.8 | Let's go A.
+2025-06-02 08:39:00 | BlindBandit | 192.168.1.2 | Nice clutch!
+2025-06-02 08:51:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-02 09:02:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-02 09:13:00 | BlindBandit | 192.168.1.2 | Anyone has drop?
+2025-06-02 09:31:00 | BlindBandit | 192.168.1.2 | I need backup.
+2025-06-02 09:50:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-02 10:00:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-02 10:11:00 | Z3R0 | 192.168.0.3 | Plant the bomb!
+2025-06-02 10:31:00 | BlindBandit | 192.168.1.2 | Plant the bomb!
+2025-06-02 10:48:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-02 11:08:00 | BlindBandit | 192.168.1.2 | Let's go A.
+2025-06-02 11:13:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 11:27:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-02 11:46:00 | ClutchMaster | 192.168.1.1 | This team is actually good.
+2025-06-02 12:03:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 12:08:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-02 12:24:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-02 12:44:00 | Z3R0 | 192.168.0.3 | This team is actually good.
+2025-06-02 13:02:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 13:10:00 | BlindBandit | 192.168.1.2 | This team is actually good.
+2025-06-02 13:23:00 | NoScopeNancy | 192.168.0.8 | Let's go A.
+2025-06-02 13:33:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 13:48:00 | Z3R0 | 192.168.0.3 | Rotate fast.
+2025-06-02 14:02:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-02 14:15:00 | NoScopeNancy | 192.168.0.8 | Rotate fast.
+2025-06-02 14:29:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-02 14:35:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-02 14:40:00 | ClutchMaster | 192.168.1.1 | Sorry, my bad.
+2025-06-02 14:56:00 | NoScopeNancy | 192.168.0.8 | I'm lagging.
+2025-06-02 15:16:00 | Z3R0 | 192.168.0.3 | Use utility.
+2025-06-02 15:29:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-02 15:44:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-02 15:52:00 | BlindBandit | 192.168.1.2 | Let's go A.
+2025-06-02 16:12:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-02 16:28:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-02 16:47:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-02 17:00:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 17:07:00 | BlindBandit | 192.168.1.2 | Plant the bomb!
+2025-06-02 17:27:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-02 17:38:00 | Z3R0 | 192.168.0.3 | Don't peek mid.
+2025-06-02 17:48:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-02 18:01:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-02 18:07:00 | GGnore | 192.168.0.9 | Save weapons.
+2025-06-02 18:14:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-02 18:30:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-02 18:48:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-02 18:56:00 | GGnore | 192.168.0.9 | GG guys!
+2025-06-02 19:05:00 | BlindBandit | 192.168.1.2 | Don't peek mid.
+2025-06-02 19:23:00 | NoScopeNancy | 192.168.0.8 | Rotate fast.
+2025-06-02 19:33:00 | BlindBandit | 192.168.1.2 | Who has bomb?
+2025-06-02 19:48:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-02 20:06:00 | ClutchMaster | 192.168.1.1 | I need backup.
+2025-06-02 20:16:00 | Z3R0 | 192.168.0.3 | Don't peek mid.
+2025-06-02 20:33:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-02 20:47:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-02 21:04:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-03 09:17:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-03 09:30:00 | Z3R0 | 192.168.0.3 | Nice clutch!
+2025-06-03 09:47:00 | Z3R0 | 192.168.0.3 | Use utility.
+2025-06-03 09:55:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-03 10:09:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+ChatID: 7
+2025-06-01 12:00:00 | ClutchMaster | 192.168.1.1 | Damn, missed again.
+2025-06-01 12:07:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-01 12:16:00 | NoScopeNancy | 192.168.0.8 | Shit team.
+2025-06-01 12:24:00 | AimGod | 192.168.0.7 | Shit team.
+2025-06-01 12:41:00 | NoScopeNancy | 192.168.0.8 | Damn, missed again.
+2025-06-01 12:47:00 | AimGod | 192.168.0.7 | Shit, that was close.
+2025-06-01 13:00:00 | AimGod | 192.168.0.7 | Fuck me, dude.
+2025-06-01 13:16:00 | NoScopeNancy | 192.168.0.8 | Fuck me, dude.
+2025-06-01 13:27:00 | AimGod | 192.168.0.7 | I need backup.
+2025-06-01 13:40:00 | ClutchMaster | 192.168.1.1 | What the fuck are you doing?!
+2025-06-01 13:49:00 | NoScopeNancy | 192.168.0.8 | This team is actually good.
+2025-06-01 14:00:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-01 14:19:00 | NoScopeNancy | 192.168.0.8 | GG guys!
+2025-06-01 14:26:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-01 14:32:00 | AimGod | 192.168.0.7 | This team is actually good.
+2025-06-01 14:49:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-01 14:59:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-01 15:14:00 | BlindBandit | 192.168.1.2 | Damn it, guys!
+2025-06-01 15:31:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-01 15:43:00 | ClutchMaster | 192.168.1.1 | Sorry, my bad.
+2025-06-01 15:53:00 | AimGod | 192.168.0.7 | Anyone has drop?
+2025-06-01 16:05:00 | BlindBandit | 192.168.1.2 | Holy shit that was intense.
+2025-06-01 16:18:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-01 16:28:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-01 16:45:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-01 16:58:00 | BlindBandit | 192.168.1.2 | Damn, missed again.
+2025-06-02 05:12:00 | BlindBandit | 192.168.1.2 | This team is actually good.
+2025-06-02 05:32:00 | BlindBandit | 192.168.1.2 | Use utility.
+2025-06-02 05:49:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-02 17:55:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 18:01:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 18:18:00 | K1llMePlz | 192.168.0.2 | Shit team.
+2025-06-02 18:23:00 | K1llMePlz | 192.168.0.2 | Fucking campers.
+2025-06-02 18:28:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 18:33:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-02 18:38:00 | AimGod | 192.168.0.7 | Well played.
+2025-06-02 18:49:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-02 19:02:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-02 19:22:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-02 19:28:00 | AimGod | 192.168.0.7 | Well played.
+2025-06-02 19:43:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 20:02:00 | K1llMePlz | 192.168.0.2 | Sorry, my bad.
+2025-06-02 20:13:00 | NoScopeNancy | 192.168.0.8 | This team is actually good.
+2025-06-02 20:26:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-02 20:36:00 | K1llMePlz | 192.168.0.2 | I need backup.
+2025-06-02 20:48:00 | BlindBandit | 192.168.1.2 | Sorry, my bad.
+2025-06-02 20:54:00 | K1llMePlz | 192.168.0.2 | This team is actually good.
+2025-06-02 21:00:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-02 21:16:00 | ClutchMaster | 192.168.1.1 | Save weapons.
+2025-06-02 21:21:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-02 21:36:00 | BlindBandit | 192.168.1.2 | Who has bomb?
+2025-06-02 21:49:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-02 22:07:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-02 22:23:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-03 10:40:00 | AimGod | 192.168.0.7 | Let's go A.
+2025-06-03 10:51:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-03 11:04:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-03 11:19:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-03 11:34:00 | BlindBandit | 192.168.1.2 | I'm lagging.
+2025-06-03 11:47:00 | AimGod | 192.168.0.7 | Who has bomb?
+2025-06-03 11:59:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-03 12:13:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-03 12:31:00 | NoScopeNancy | 192.168.0.8 | Sorry, my bad.
+2025-06-03 12:42:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-03 13:01:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-03 13:17:00 | K1llMePlz | 192.168.0.2 | This team is actually good.
+2025-06-03 13:31:00 | BlindBandit | 192.168.1.2 | This team is actually good.
+2025-06-03 13:40:00 | ClutchMaster | 192.168.1.1 | I need backup.
+2025-06-03 13:47:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-03 14:04:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-03 14:13:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-03 14:19:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-03 14:35:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-03 14:44:00 | AimGod | 192.168.0.7 | GG guys!
+2025-06-03 14:59:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-03 15:06:00 | BlindBandit | 192.168.1.2 | I need backup.
+2025-06-03 15:18:00 | BlindBandit | 192.168.1.2 | Don't peek mid.
+2025-06-03 15:36:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-03 15:56:00 | BlindBandit | 192.168.1.2 | Save weapons.
+2025-06-03 16:03:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-03 16:21:00 | AimGod | 192.168.0.7 | GG guys!
+2025-06-03 16:41:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-03 16:59:00 | AimGod | 192.168.0.7 | Rotate fast.
+2025-06-03 17:05:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-03 17:25:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-03 17:41:00 | BlindBandit | 192.168.1.2 | Don't peek mid.
+2025-06-03 18:00:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-03 18:05:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-03 18:13:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-03 18:32:00 | BlindBandit | 192.168.1.2 | I'm lagging.
+2025-06-03 18:49:00 | K1llMePlz | 192.168.0.2 | GG guys!
+2025-06-03 19:08:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-03 19:19:00 | NoScopeNancy | 192.168.0.8 | GG guys!
+2025-06-03 19:30:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-03 19:46:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-03 19:55:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-03 20:02:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-03 20:12:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-03 20:27:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-03 20:44:00 | ClutchMaster | 192.168.1.1 | Don't peek mid.
+ChatID: 8
+2025-06-01 12:00:00 | NoScopeNancy | 192.168.0.8 | This game is bullshit.
+2025-06-01 12:05:00 | NoScopeNancy | 192.168.0.8 | Fucking campers.
+2025-06-01 12:18:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-01 12:26:00 | K1llMePlz | 192.168.0.2 | Who has bomb?
+2025-06-01 12:32:00 | NovaCat | 192.168.0.4 | Shit, that was close.
+2025-06-01 12:49:00 | K1llMePlz | 192.168.0.2 | Nice clutch!
+2025-06-01 13:07:00 | ToxicTommy | 192.168.0.5 | Well played.
+2025-06-01 13:15:00 | NovaCat | 192.168.0.4 | Damn, missed again.
+2025-06-01 13:30:00 | K1llMePlz | 192.168.0.2 | Use utility.
+2025-06-01 13:47:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 01:56:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+2025-06-02 02:13:00 | NoScopeNancy | 192.168.0.8 | Holy shit that was intense.
+2025-06-02 02:18:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-02 02:28:00 | NoScopeNancy | 192.168.0.8 | Rotate fast.
+2025-06-02 02:33:00 | K1llMePlz | 192.168.0.2 | Save weapons.
+2025-06-02 02:40:00 | NoScopeNancy | 192.168.0.8 | I'm lagging.
+2025-06-02 02:56:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 03:02:00 | GGnore | 192.168.0.9 | Holy shit that was intense.
+2025-06-02 03:18:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-02 03:28:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-02 03:44:00 | NovaCat | 192.168.0.4 | Shit, that was close.
+2025-06-02 04:01:00 | ToxicTommy | 192.168.0.5 | Rotate fast.
+2025-06-02 04:21:00 | GGnore | 192.168.0.9 | Shit team.
+2025-06-02 16:28:00 | NovaCat | 192.168.0.4 | Save weapons.
+2025-06-02 16:46:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-02 16:52:00 | ToxicTommy | 192.168.0.5 | I'm lagging.
+2025-06-02 17:00:00 | GGnore | 192.168.0.9 | Fuck me, dude.
+2025-06-02 17:20:00 | K1llMePlz | 192.168.0.2 | Fuck me, dude.
+2025-06-02 17:38:00 | GGnore | 192.168.0.9 | Fuck me, dude.
+2025-06-02 17:58:00 | ToxicTommy | 192.168.0.5 | Sorry, my bad.
+2025-06-02 18:03:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-02 18:19:00 | NovaCat | 192.168.0.4 | Well played.
+2025-06-02 18:34:00 | GGnore | 192.168.0.9 | This game is bullshit.
+2025-06-02 18:42:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-02 18:52:00 | NovaCat | 192.168.0.4 | Plant the bomb!
+2025-06-02 19:06:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-02 19:20:00 | ToxicTommy | 192.168.0.5 | I'm lagging.
+2025-06-02 19:26:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-02 19:38:00 | NovaCat | 192.168.0.4 | Who has bomb?
+2025-06-02 19:44:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-02 20:02:00 | K1llMePlz | 192.168.0.2 | Damn it, guys!
+2025-06-02 20:13:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-02 20:18:00 | K1llMePlz | 192.168.0.2 | Let's go A.
+2025-06-02 20:30:00 | NovaCat | 192.168.0.4 | I'm lagging.
+2025-06-02 20:47:00 | ToxicTommy | 192.168.0.5 | Nice clutch!
+2025-06-02 20:58:00 | ToxicTommy | 192.168.0.5 | Anyone has drop?
+2025-06-02 21:06:00 | K1llMePlz | 192.168.0.2 | Sorry, my bad.
+2025-06-02 21:23:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-02 21:33:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-02 21:40:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-02 21:55:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 22:00:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-02 22:17:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-02 22:22:00 | ToxicTommy | 192.168.0.5 | Rotate fast.
+2025-06-02 22:31:00 | K1llMePlz | 192.168.0.2 | I need backup.
+2025-06-02 22:41:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-02 22:52:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-02 22:57:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-02 23:02:00 | K1llMePlz | 192.168.0.2 | Plant the bomb!
+2025-06-02 23:21:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-02 23:27:00 | ToxicTommy | 192.168.0.5 | Save weapons.
+2025-06-02 23:34:00 | ToxicTommy | 192.168.0.5 | Nice clutch!
+2025-06-02 23:40:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-02 23:46:00 | K1llMePlz | 192.168.0.2 | Sorry, my bad.
+2025-06-03 00:05:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-03 00:23:00 | ToxicTommy | 192.168.0.5 | Well played.
+2025-06-03 00:28:00 | NoScopeNancy | 192.168.0.8 | Plant the bomb!
+2025-06-03 00:35:00 | GGnore | 192.168.0.9 | Let's go A.
+2025-06-03 00:51:00 | NoScopeNancy | 192.168.0.8 | Sorry, my bad.
+2025-06-03 01:06:00 | ToxicTommy | 192.168.0.5 | Don't peek mid.
+2025-06-03 01:14:00 | NoScopeNancy | 192.168.0.8 | This team is actually good.
+2025-06-03 01:34:00 | GGnore | 192.168.0.9 | Plant the bomb!
+2025-06-03 01:44:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-03 01:54:00 | NovaCat | 192.168.0.4 | Sorry, my bad.
+2025-06-03 02:14:00 | GGnore | 192.168.0.9 | Plant the bomb!
+2025-06-03 02:20:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-03 02:37:00 | K1llMePlz | 192.168.0.2 | Anyone has drop?
+2025-06-03 14:49:00 | ToxicTommy | 192.168.0.5 | This game is bullshit.
+2025-06-03 15:01:00 | NoScopeNancy | 192.168.0.8 | Rotate fast.
+2025-06-03 15:09:00 | NovaCat | 192.168.0.4 | I'm lagging.
+2025-06-03 15:19:00 | K1llMePlz | 192.168.0.2 | Rotate fast.
+2025-06-03 15:37:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-03 15:56:00 | NovaCat | 192.168.0.4 | Don't peek mid.
+2025-06-03 16:14:00 | GGnore | 192.168.0.9 | Fuck me, dude.
+2025-06-03 16:26:00 | NoScopeNancy | 192.168.0.8 | Let's go A.
+2025-06-03 16:41:00 | K1llMePlz | 192.168.0.2 | Don't peek mid.
+2025-06-03 16:50:00 | ToxicTommy | 192.168.0.5 | Fucking campers.
+2025-06-03 16:58:00 | ToxicTommy | 192.168.0.5 | What the fuck are you doing?!
+2025-06-03 17:11:00 | GGnore | 192.168.0.9 | Fucking campers.
+2025-06-03 17:17:00 | GGnore | 192.168.0.9 | Fucking campers.
+2025-06-03 17:32:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-03 17:39:00 | NoScopeNancy | 192.168.0.8 | Rotate fast.
+2025-06-03 17:56:00 | K1llMePlz | 192.168.0.2 | Nice clutch!
+2025-06-03 18:12:00 | ToxicTommy | 192.168.0.5 | Rotate fast.
+2025-06-04 06:24:00 | NovaCat | 192.168.0.4 | I'm lagging.
+2025-06-04 06:44:00 | NovaCat | 192.168.0.4 | Sorry, my bad.
+2025-06-04 06:59:00 | GGnore | 192.168.0.9 | What the fuck are you doing?!
+2025-06-04 07:13:00 | K1llMePlz | 192.168.0.2 | This team is actually good.
+2025-06-04 07:26:00 | NovaCat | 192.168.0.4 | Nice clutch!
+2025-06-04 07:38:00 | K1llMePlz | 192.168.0.2 | I'm lagging.
+ChatID: 9
+2025-06-01 12:00:00 | NoScopeNancy | 192.168.0.8 | What the fuck are you doing?!
+2025-06-01 12:16:00 | NoScopeNancy | 192.168.0.8 | Damn, missed again.
+2025-06-01 12:23:00 | AimGod | 192.168.0.7 | Damn it, guys!
+2025-06-01 12:40:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-01 12:58:00 | NoScopeNancy | 192.168.0.8 | This game is bullshit.
+2025-06-01 13:15:00 | GGnore | 192.168.0.9 | Save weapons.
+2025-06-01 13:21:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 01:38:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-02 01:47:00 | GGnore | 192.168.0.9 | Let's go A.
+2025-06-02 02:03:00 | Softie | 192.168.0.6 | Save weapons.
+2025-06-02 02:08:00 | ClutchMaster | 192.168.1.1 | This game is bullshit.
+2025-06-02 02:14:00 | GGnore | 192.168.0.9 | This team is actually good.
+2025-06-02 02:26:00 | ClutchMaster | 192.168.1.1 | What the fuck are you doing?!
+2025-06-02 02:32:00 | AimGod | 192.168.0.7 | This game is bullshit.
+2025-06-02 02:40:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-02 02:52:00 | AimGod | 192.168.0.7 | What the fuck are you doing?!
+2025-06-02 03:06:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-02 03:23:00 | ClutchMaster | 192.168.1.1 | Fuck me, dude.
+2025-06-02 03:31:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-02 03:50:00 | GGnore | 192.168.0.9 | GG guys!
+2025-06-02 04:05:00 | ClutchMaster | 192.168.1.1 | I'm so fucking done.
+2025-06-02 04:19:00 | NoScopeNancy | 192.168.0.8 | I'm lagging.
+2025-06-02 04:33:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-02 04:41:00 | ClutchMaster | 192.168.1.1 | Holy shit that was intense.
+2025-06-02 04:47:00 | NoScopeNancy | 192.168.0.8 | Sorry, my bad.
+2025-06-02 04:52:00 | NoScopeNancy | 192.168.0.8 | I need backup.
+2025-06-02 05:03:00 | AimGod | 192.168.0.7 | GG guys!
+2025-06-02 05:23:00 | ClutchMaster | 192.168.1.1 | Sorry, my bad.
+2025-06-02 05:37:00 | AimGod | 192.168.0.7 | Who has bomb?
+2025-06-02 05:44:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-02 05:52:00 | AimGod | 192.168.0.7 | Let's go A.
+2025-06-02 06:04:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-02 06:12:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-02 06:18:00 | NoScopeNancy | 192.168.0.8 | Rotate fast.
+2025-06-02 06:31:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-02 06:40:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-02 06:56:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-02 07:07:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-02 07:24:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 19:38:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-02 19:45:00 | ClutchMaster | 192.168.1.1 | Shit team.
+2025-06-02 19:53:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-02 20:11:00 | AimGod | 192.168.0.7 | I'm lagging.
+2025-06-02 20:31:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-02 20:45:00 | GGnore | 192.168.0.9 | GG guys!
+2025-06-02 20:51:00 | AimGod | 192.168.0.7 | Well played.
+2025-06-02 21:08:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-02 21:23:00 | NoScopeNancy | 192.168.0.8 | This team is actually good.
+2025-06-02 21:41:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 21:57:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 22:16:00 | AimGod | 192.168.0.7 | I need backup.
+2025-06-02 22:21:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-02 22:28:00 | ClutchMaster | 192.168.1.1 | Shit, that was close.
+2025-06-02 22:33:00 | NoScopeNancy | 192.168.0.8 | Sorry, my bad.
+2025-06-02 22:53:00 | ClutchMaster | 192.168.1.1 | Use utility.
+2025-06-02 23:02:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-02 23:11:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 23:20:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-02 23:26:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-02 23:41:00 | Softie | 192.168.0.6 | Holy shit that was intense.
+2025-06-03 00:01:00 | AimGod | 192.168.0.7 | I need backup.
+2025-06-03 00:08:00 | AimGod | 192.168.0.7 | Well played.
+2025-06-03 00:16:00 | AimGod | 192.168.0.7 | Well played.
+2025-06-03 00:22:00 | AimGod | 192.168.0.7 | Use utility.
+2025-06-03 00:33:00 | ClutchMaster | 192.168.1.1 | Anyone has drop?
+2025-06-03 00:49:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-03 00:57:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+2025-06-03 01:13:00 | GGnore | 192.168.0.9 | Save weapons.
+2025-06-03 01:23:00 | ClutchMaster | 192.168.1.1 | GG guys!
+2025-06-03 13:39:00 | GGnore | 192.168.0.9 | Fucking campers.
+2025-06-03 13:47:00 | NoScopeNancy | 192.168.0.8 | I'm lagging.
+2025-06-03 13:55:00 | NoScopeNancy | 192.168.0.8 | Well played.
+2025-06-03 14:10:00 | NoScopeNancy | 192.168.0.8 | Plant the bomb!
+2025-06-03 14:15:00 | Softie | 192.168.0.6 | I'm so fucking done.
+2025-06-03 14:31:00 | Softie | 192.168.0.6 | Fuck me, dude.
+2025-06-03 14:50:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-03 15:04:00 | Softie | 192.168.0.6 | Nice clutch!
+2025-06-03 15:17:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-03 15:22:00 | GGnore | 192.168.0.9 | Fuck me, dude.
+2025-06-03 15:28:00 | Softie | 192.168.0.6 | Who has bomb?
+2025-06-03 15:39:00 | GGnore | 192.168.0.9 | Shit team.
+2025-06-03 15:45:00 | NoScopeNancy | 192.168.0.8 | Save weapons.
+2025-06-03 15:54:00 | AimGod | 192.168.0.7 | Well played.
+2025-06-03 16:00:00 | NoScopeNancy | 192.168.0.8 | I'm lagging.
+2025-06-03 16:13:00 | Softie | 192.168.0.6 | Let's go A.
+2025-06-03 16:27:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-03 16:42:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-03 16:49:00 | NoScopeNancy | 192.168.0.8 | This team is actually good.
+2025-06-03 17:09:00 | Softie | 192.168.0.6 | Plant the bomb!
+2025-06-03 17:29:00 | NoScopeNancy | 192.168.0.8 | Anyone has drop?
+2025-06-03 17:42:00 | NoScopeNancy | 192.168.0.8 | I'm lagging.
+2025-06-03 17:48:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-03 18:04:00 | NoScopeNancy | 192.168.0.8 | Use utility.
+2025-06-03 18:22:00 | NoScopeNancy | 192.168.0.8 | Don't peek mid.
+2025-06-03 18:33:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-03 18:48:00 | NoScopeNancy | 192.168.0.8 | Who has bomb?
+2025-06-03 19:04:00 | Softie | 192.168.0.6 | Plant the bomb!
+2025-06-03 19:13:00 | Softie | 192.168.0.6 | Sorry, my bad.
+2025-06-03 19:22:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-03 19:37:00 | NoScopeNancy | 192.168.0.8 | Nice clutch!
+ChatID: 10
+2025-06-01 12:00:00 | ToxicTommy | 192.168.0.5 | Nice clutch!
+2025-06-01 12:06:00 | Z3R0 | 192.168.0.3 | Damn, missed again.
+2025-06-01 12:16:00 | Z3R0 | 192.168.0.3 | Fucking campers.
+2025-06-01 12:22:00 | Z3R0 | 192.168.0.3 | Damn, missed again.
+2025-06-01 12:33:00 | ToxicTommy | 192.168.0.5 | GG guys!
+2025-06-01 12:38:00 | ToxicTommy | 192.168.0.5 | I need backup.
+2025-06-01 12:51:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+2025-06-01 13:06:00 | AimGod | 192.168.0.7 | Shit, that was close.
+2025-06-01 13:16:00 | Z3R0 | 192.168.0.3 | Plant the bomb!
+2025-06-01 13:23:00 | Z3R0 | 192.168.0.3 | Well played.
+2025-06-01 13:30:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-01 13:38:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-01 13:58:00 | Z3R0 | 192.168.0.3 | Use utility.
+2025-06-01 14:08:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-01 14:25:00 | AimGod | 192.168.0.7 | Damn, missed again.
+2025-06-01 14:34:00 | Z3R0 | 192.168.0.3 | Don't peek mid.
+2025-06-01 14:39:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-01 14:51:00 | ToxicTommy | 192.168.0.5 | I'm lagging.
+2025-06-01 15:05:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-01 15:13:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-01 15:24:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-01 15:30:00 | GGnore | 192.168.0.9 | Who has bomb?
+2025-06-01 15:40:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-01 15:59:00 | Z3R0 | 192.168.0.3 | Use utility.
+2025-06-01 16:11:00 | AimGod | 192.168.0.7 | Holy shit that was intense.
+2025-06-01 16:18:00 | AimGod | 192.168.0.7 | I need backup.
+2025-06-01 16:23:00 | Z3R0 | 192.168.0.3 | Who has bomb?
+2025-06-02 04:33:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-02 04:39:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-02 04:51:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-02 04:59:00 | AimGod | 192.168.0.7 | I need backup.
+2025-06-02 05:12:00 | ToxicTommy | 192.168.0.5 | Well played.
+2025-06-02 05:18:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-02 05:23:00 | ClutchMaster | 192.168.1.1 | This team is actually good.
+2025-06-02 05:38:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 05:47:00 | ClutchMaster | 192.168.1.1 | Well played.
+2025-06-02 06:07:00 | GGnore | 192.168.0.9 | Save weapons.
+2025-06-02 06:16:00 | Z3R0 | 192.168.0.3 | GG guys!
+2025-06-02 06:30:00 | AimGod | 192.168.0.7 | Anyone has drop?
+2025-06-02 06:40:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 06:52:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-02 06:58:00 | ToxicTommy | 192.168.0.5 | Plant the bomb!
+2025-06-02 07:18:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-02 07:36:00 | ToxicTommy | 192.168.0.5 | Use utility.
+2025-06-02 07:46:00 | ClutchMaster | 192.168.1.1 | This team is actually good.
+2025-06-02 07:54:00 | GGnore | 192.168.0.9 | Plant the bomb!
+2025-06-02 08:08:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-02 08:27:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 08:42:00 | AimGod | 192.168.0.7 | Use utility.
+2025-06-02 09:02:00 | ClutchMaster | 192.168.1.1 | Nice clutch!
+2025-06-02 09:21:00 | AimGod | 192.168.0.7 | I'm lagging.
+2025-06-02 09:33:00 | Z3R0 | 192.168.0.3 | Sorry, my bad.
+2025-06-02 09:42:00 | Z3R0 | 192.168.0.3 | I'm lagging.
+2025-06-02 09:49:00 | GGnore | 192.168.0.9 | Use utility.
+2025-06-02 10:09:00 | Z3R0 | 192.168.0.3 | Nice clutch!
+2025-06-02 10:18:00 | ClutchMaster | 192.168.1.1 | I'm lagging.
+2025-06-02 10:38:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-02 10:51:00 | GGnore | 192.168.0.9 | I'm lagging.
+2025-06-02 11:05:00 | Z3R0 | 192.168.0.3 | Anyone has drop?
+2025-06-02 11:10:00 | ToxicTommy | 192.168.0.5 | Well played.
+2025-06-02 11:28:00 | AimGod | 192.168.0.7 | Sorry, my bad.
+2025-06-02 11:40:00 | AimGod | 192.168.0.7 | Anyone has drop?
+2025-06-02 11:51:00 | ToxicTommy | 192.168.0.5 | Save weapons.
+2025-06-02 12:02:00 | Z3R0 | 192.168.0.3 | Save weapons.
+2025-06-02 12:15:00 | ToxicTommy | 192.168.0.5 | Let's go A.
+2025-06-02 12:25:00 | ToxicTommy | 192.168.0.5 | Nice clutch!
+2025-06-02 12:30:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-02 12:39:00 | ClutchMaster | 192.168.1.1 | Let's go A.
+2025-06-02 12:55:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-02 13:12:00 | ClutchMaster | 192.168.1.1 | Who has bomb?
+2025-06-02 13:31:00 | GGnore | 192.168.0.9 | Nice clutch!
+2025-06-02 13:40:00 | GGnore | 192.168.0.9 | Sorry, my bad.
+2025-06-02 13:47:00 | ClutchMaster | 192.168.1.1 | Rotate fast.
+2025-06-02 14:04:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-02 14:21:00 | ToxicTommy | 192.168.0.5 | I'm lagging.
+2025-06-02 14:39:00 | ToxicTommy | 192.168.0.5 | GG guys!
+2025-06-02 14:46:00 | Z3R0 | 192.168.0.3 | Let's go A.
+2025-06-02 15:03:00 | ClutchMaster | 192.168.1.1 | Plant the bomb!
+2025-06-02 15:23:00 | GGnore | 192.168.0.9 | Plant the bomb!
+2025-06-02 15:40:00 | GGnore | 192.168.0.9 | Don't peek mid.
+2025-06-02 15:55:00 | Z3R0 | 192.168.0.3 | I need backup.
+2025-06-02 16:09:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-02 16:28:00 | GGnore | 192.168.0.9 | Let's go A.
+2025-06-02 16:39:00 | GGnore | 192.168.0.9 | Rotate fast.
+2025-06-02 16:52:00 | GGnore | 192.168.0.9 | Well played.
+2025-06-02 16:57:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-02 17:15:00 | Z3R0 | 192.168.0.3 | Nice clutch!
+2025-06-02 17:20:00 | GGnore | 192.168.0.9 | I need backup.
+2025-06-02 17:29:00 | ToxicTommy | 192.168.0.5 | Use utility.
+2025-06-02 17:37:00 | ToxicTommy | 192.168.0.5 | GG guys!
+2025-06-02 17:54:00 | AimGod | 192.168.0.7 | Who has bomb?
+2025-06-02 18:03:00 | AimGod | 192.168.0.7 | Don't peek mid.
+2025-06-02 18:11:00 | GGnore | 192.168.0.9 | This team is actually good.
+2025-06-02 18:22:00 | AimGod | 192.168.0.7 | Nice clutch!
+2025-06-02 18:40:00 | ClutchMaster | 192.168.1.1 | Fucking campers.
+2025-06-02 19:00:00 | GGnore | 192.168.0.9 | Anyone has drop?
+2025-06-02 19:09:00 | ToxicTommy | 192.168.0.5 | Use utility.
+2025-06-02 19:20:00 | AimGod | 192.168.0.7 | Plant the bomb!
+2025-06-02 19:28:00 | ToxicTommy | 192.168.0.5 | This team is actually good.
+2025-06-02 19:47:00 | Z3R0 | 192.168.0.3 | Let's go A.
